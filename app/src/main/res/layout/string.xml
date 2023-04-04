@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="myButton">Add</string>
+    <string name="toggle">Urgent</string>
+    <string name="hint">Type Here</string>
+    <string name="header">CST2335 Lab4</string>
+    <string name="textHere">Text Goes Here</string>
+    <string name="app_name">Lab_5</string>
+</resources>
